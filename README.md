@@ -1,4 +1,4 @@
-# Inkblot
+# Inkblot Crew
 
 Augmented Reality for Romance Readers — experience indie romance like never before.
 
@@ -19,10 +19,10 @@ Inkblot is a subscription service delivering curated indie romance books with sc
 
 ```sh
 # Clone the repository
-git clone https://github.com/ggavr/inkblot.git
+git clone https://github.com/ggavr/inkblotCrew.git
 
 # Navigate to project
-cd inkblot
+cd inkblotCrew
 
 # Install dependencies
 npm install
